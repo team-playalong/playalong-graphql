@@ -1,0 +1,30 @@
+{
+  "name": "playalong-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL implementation for Playalong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/nodemon/bin/nodemon.js src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-playalong/playalong-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team-playalong/playalong-graphql/issues"
+  },
+  "homepage": "https://github.com/team-playalong/playalong-graphql#readme",
+  "dependencies": {
+    "config": "^1.21.0",
+    "cors": "^2.8.0",
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
