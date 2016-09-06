@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "playalong-prod",
+  "private_key_id": "a22e039eb1e9fee9055721f230b3da762cae6b31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEIOy86kiL7CcC\neEMCpMRLFUaukOKFrNdAQCkJjhJl4qTtDa6P/289h1GqThFAdXzgC/WJJEJKdux0\nugmj371ww7pHMh4WtFvDmz7ULz2N1PCCCxwkU1qHO8b5mjUyd9fbRKQRA0KDbhwf\nKCObtP7woJtfnrvrbrYV85q8B6k96IB8BWQfx0AgzbMf15dyO/quNssInOD5KGJh\nY+WkPoGvEX3QeIFmVhOzvBvUeF4qGDLQXRIQsgOzgoifpBN7mAMh6XpNzHyWIKbF\nXgsZmk2L8+eBfdfXOmizU9PPAmSDmreVu0kHL2nPni1TjmUXXHs8FrtxNr5pDa2J\ndwdPCeGvAgMBAAECggEBAJ3WeW8XhMbGiCZerl8ERsy+FKIMC6DUlm4otF3yLjA8\nk8oKxr8wLE/yBPDv3sZnRtXwCewSeB8BUg4mYfe16flEKzd8x+Yxw9/JomiUlA7+\nnYeqdT1ur15B50Gcrs8sz1SxCvB+FRs8k/knDnES2lDAkAoF7unrsTI9V/uWlscw\nWvrPiN52Q2iuNUZPXc+4uAxgNwAjqMsC63ifFCAIfzYhdrqBFSAs660xgan4WHRa\nRIRKAC+BS7cK4t+JunKljR9CmAiC4BeOpQn0x7plobDxTWuZaAapJTCjHfQByNs3\n/R/jUAcYhZEHlA8RaAWI2F2M1JvDG1ZOBYqaqBrM4CECgYEA4diRvcsQQNOx79Gv\nXqvNcGD4Ye1YlbaQ9TIboXjXtQ79CiNhOInIgTJGM4qBTfRP4S8tku2LzwQi35C5\nUvZnZHsfpcbcI4OGMuE3UyTfNc13TwtyEULM8NU9Mx68nuM+LaG/xapBWil59glm\n9H1KcGxmnznGkIORYtEaghY64okCgYEA3lCdMLQbMzkGdHKbLdHTc8PXNjUp3YMX\nJcIWkbzjCBTegJtbJIyDazfmbKU1A++uH5p+lRkumNPNsmKffSNE3vhpW/F3TO+f\nhuLZ7sdrMFSrLkPTC836feMnfycnS6ejWrncWh981nkkGpm4bYKfUWJEc6j4aS8N\nljagrJvA9HcCgYAOT8QEi+6uvPuEn/wF+ssc+PgkdH7tldEfyJoZpGe+8IE2eEF7\n7LdJAJ+UOo2xG+9H7M5thiIa7z8qfahQyo6Ivoil37EpivchGEaCPU7rwOZzmt0S\nnPIRvOGQ8LyxMONKzvoxE3XqucAhyDy+94WVFDl4k5eyprO62FdesPvwSQKBgCgN\nP/SJTikxSd9q0lgz6DOAAeLLOyqkNmRgDi7dZ82J7PgghRAVnIuRe5rxPJbj9GvP\nKqTz73grGHDd4bvqwbql6F1fKE4dEZF8hyTEmqQPbPOd1oTW7B0H8pKu3B5+Kijr\nOS6nY5dEJeQA88AO+2LvIEPyGibhCkKYvuO5/85LAoGAJg/Uu2EBtqqI5/ZrxEbd\ng+rPqjF8ihoixRYRKreKMuIdJ0haDQMh7hLZovk8EgeOaKpdnB0LnB13+/riwoOd\nr+3e9LxlugKSmnFL7R+HnftSvbg6qbic2a8egW7yw7jeJk89IaXdD2Ji7ySAdPFx\nisvxEDm/+m2mk2gD5EcEJ4Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "playalong-graphql@playalong-prod.iam.gserviceaccount.com",
+  "client_id": "108513075835452434791",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/playalong-graphql%40playalong-prod.iam.gserviceaccount.com"
+}
